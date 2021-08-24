@@ -4,7 +4,79 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="979e07b3-d9b2-4ce6-933c-bfa5d01a98c1" name="Default Changelist" comment="" />
+    <list default="true" id="979e07b3-d9b2-4ce6-933c-bfa5d01a98c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/2028995a913d89db257203b664ce295b4c9df90d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/calculator/AverageResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/calculator/AverageResponseOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/calculator/FindMaximumRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/calculator/FindMaximumRequestOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/calculator/FindMaximumResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/calculator/FindMaximumResponseOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/calculator/InputNumersRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/calculator/InputNumersRequestOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/GreetEveryoneRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/GreetEveryoneRequestOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/GreetEveryoneResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/GreetEveryoneResponseOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/LongGreetRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/LongGreetRequestOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/LongGreetResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/LongGreetResponseOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org-proto-buf-java-practice/.idea/sonarlint/issuestore/1/f/1f5f920f74479e127178cb8430b2742deec1cd0e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org-proto-buf-java-practice/.idea/sonarlint/issuestore/3/d/3d4392d7884fa9a7532a5149cf3f269901c59347" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org-proto-buf-java-practice/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org-proto-buf-java-practice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/grpc/com/proto/calculator/CalculatorServiceGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/generated/source/proto/main/grpc/com/proto/calculator/CalculatorServiceGrpc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/grpc/com/proto/greet/GreetServiceGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/generated/source/proto/main/grpc/com/proto/greet/GreetServiceGrpc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/Greet.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/Greet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceBaseDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceBaseDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceBlockingStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceBlockingStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceFileDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceFileDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceFutureStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceFutureStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceImplBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceImplBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceMethodDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceMethodDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$MethodHandlers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$MethodHandlers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/calculator/CalculatorServiceGrpc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/greet/Greet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/greet/Greet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$GreetServiceBaseDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$GreetServiceBaseDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$GreetServiceBlockingStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$GreetServiceBlockingStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$GreetServiceFileDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$GreetServiceFileDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$GreetServiceFutureStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$GreetServiceFutureStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$GreetServiceImplBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$GreetServiceImplBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$GreetServiceMethodDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$GreetServiceMethodDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$GreetServiceStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$GreetServiceStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$MethodHandlers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc$MethodHandlers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/proto/greet/GreetServiceGrpc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/sandeep/practice/grpc/calculator/client/CalculatorClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/sandeep/practice/grpc/calculator/client/CalculatorClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/sandeep/practice/grpc/calculator/server/CalculatorServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/sandeep/practice/grpc/calculator/server/CalculatorServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/sandeep/practice/grpc/greeting/client/GreetingClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/sandeep/practice/grpc/greeting/client/GreetingClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/sandeep/practice/grpc/greeting/server/GreetServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/sandeep/practice/grpc/greeting/server/GreetServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sandeep/practice/grpc/calculator/client/CalculatorClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sandeep/practice/grpc/calculator/client/CalculatorClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sandeep/practice/grpc/calculator/server/CalculatorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sandeep/practice/grpc/calculator/server/CalculatorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sandeep/practice/grpc/greeting/client/GreetingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sandeep/practice/grpc/greeting/client/GreetingClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sandeep/practice/grpc/greeting/server/GreetServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sandeep/practice/grpc/greeting/server/GreetServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/proto/calculator/calculator.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/calculator/calculator.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/proto/greet/greet.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/greet/greet.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org-proto-buf-java-practice/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../org-proto-buf-java-practice/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,18 +105,6 @@
                 <item name="grp-first-pro" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="grp-first-pro" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="grp-first-pro" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -59,15 +119,31 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1wrr4clikm6OUjIyydlQOa8HI7m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -180,5 +256,13 @@
       <updated>1629227362181</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/grp_first_pro$CalculatorClient.ic" NAME="CalculatorClient Coverage Results" MODIFIED="1629661542204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.sandeep.practice.grpc.calculator.client.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -26,6 +26,19 @@ message PrimeDecompositionServerStreamResponse{
     int32 result=1;
 }
 
+message  InputNumersRequest{
+  int32 number=1;
+}
+message  AverageResponse{
+  double average=1;
+}
+
+message FindMaximumRequest{
+    int32 number=1;
+}
+message FindMaximumResponse{
+  int32 max_value=1;
+}
 
 service  CalculatorService
 {
@@ -33,4 +46,8 @@ service  CalculatorService
 
   rpc primeDecomposition(PrimeDecompositionServerStreamRequest)
       returns (stream PrimeDecompositionServerStreamResponse){};
+
+  rpc CalculateAvg(stream InputNumersRequest) returns (AverageResponse){};
+
+  rpc FindMaximum(stream FindMaximumRequest) returns (stream FindMaximumResponse){};
 }

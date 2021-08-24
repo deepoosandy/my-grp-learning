@@ -1,0 +1,11 @@
+
+O
+java:S1854""9Remove this useless assignment to local variable "bytes".(„èè¶
+N	java:S106"9Replace this use of System.out or System.err by a logger.(óœÁ«
+Z
+java:S2147"DCombine this catch with the one at line 28, which has the same body.(ï­£Ä
+@
+java:S1481""*Remove this unused "bytes" local variable.(„èè¶
+U	java:S106("9Replace this use of System.out or System.err by a logger.(È×Œé8«‰²Þ³/
+W
+java:S1141&"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8É”®Þ³/

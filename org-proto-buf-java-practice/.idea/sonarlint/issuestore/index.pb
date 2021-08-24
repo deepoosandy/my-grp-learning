@@ -15,3 +15,11 @@ K
 src/main/proto/simple.proto,6\7\67c0824b9a0607c5af79a0e124e0662a17cbe64d
 _
 /src/main/java/com/prottobuftes/ComplexMain.java,a\b\abcdd3b5dd46bfb73e3df1419a58e40ede2716b3
+_
+/src/main/java/com/prottobuftes/OptionsMain.java,0\0\007f2bba09aea78568c9eff437146f0d8b7cd1fb
+T
+$src/main/proto/options_example.proto,3\d\3d4392d7884fa9a7532a5149cf3f269901c59347
+^
+.src/main/java/com/prottobuftes/SimpleMain.java,1\f\1f5f920f74479e127178cb8430b2742deec1cd0e
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
