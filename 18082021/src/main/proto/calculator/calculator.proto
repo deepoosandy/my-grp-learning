@@ -40,6 +40,14 @@ message FindMaximumResponse{
   int32 max_value=1;
 }
 
+message SqureRootRequest{
+  int32 number=1;
+}
+
+message SqureRootResponse{
+  double number_root=1;
+}
+
 service  CalculatorService
 {
   rpc sum(CalculatorRequest) returns (CalculatorResponse) {};
@@ -50,4 +58,12 @@ service  CalculatorService
   rpc CalculateAvg(stream InputNumersRequest) returns (AverageResponse){};
 
   rpc FindMaximum(stream FindMaximumRequest) returns (stream FindMaximumResponse){};
+
+
+  // Error handling in gRpc
+  // this rpc will throw exception if the sent number is negative.
+  rpc SqureRoot(SqureRootRequest) returns (SqureRootResponse){};
+
+
+
 }

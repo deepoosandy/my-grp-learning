@@ -1,6 +1,7 @@
 package com.sandeep.practice.grpc.calculator.server;
 
 import com.proto.calculator.*;
+import io.grpc.Status;
 import io.grpc.stub.StreamObserver;
 
 import java.util.ArrayList;
@@ -91,9 +92,27 @@ public class CalculatorServiceImpl extends CalculatorServiceGrpc.CalculatorServi
 
             @Override
             public void onCompleted() {
+                responseObserver.onNext(FindMaximumResponse.newBuilder().setMaxValue(currentMax).build());
                 responseObserver.onCompleted();
             }
         };
         return requestStreamObserver;
+    }
+
+    @Override
+    public void squreRoot(SqureRootRequest request, StreamObserver<SqureRootResponse> responseObserver) {
+
+        int number=request.getNumber();
+
+        if(number>=0){
+            double squareRoot=Math.sqrt(number);
+            responseObserver.onNext(SqureRootResponse.newBuilder().setNumberRoot(squareRoot).build());
+            responseObserver.onCompleted();
+        }else{
+            responseObserver.onError(Status.INVALID_ARGUMENT
+            .withDescription("The number being sent is not positive.")
+                    .augmentDescription("Number sent: "+number).asRuntimeException()
+            );
+        }
     }
 }
